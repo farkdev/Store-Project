@@ -1,0 +1,30 @@
+{
+  "0": {
+    "nombre": "Maceta",
+    "descripcion": "Maceta Cerámica Mediana, color violeta",
+    "precio": 4500,
+    "codigo": 135,
+    "stock": 2,
+    "id": 1
+  },
+  "1": {
+    "nombre": "Porta Vela",
+    "descripcion": "Porta vela cerámica chica, color verde variado",
+    "precio": 2000,
+    "codigo": 234,
+    "stock": 3,
+    "id": 2
+  },
+  "2": {
+    "nombre": "Tabla",
+    "descripcion": "Tablita cerámica Mediana, color naranja",
+    "precio": 3500,
+    "codigo": 123,
+    "stock": 1,
+    "id": 3
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
